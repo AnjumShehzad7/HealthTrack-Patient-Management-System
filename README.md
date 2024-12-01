@@ -1,5 +1,5 @@
 
- HealthTrack Patient Management System
+ ## HealthTrack Patient Management System
 
 
 **HealthTrack** is an open-source Electronic Medical Record (EMR) and Patient Management System built using Django. It is designed to simplify the management of patient data, appointments, and medical records for healthcare providers. With a user-friendly interface and a modular structure, HealthTrack is easy to customize and extend for various healthcare needs.
